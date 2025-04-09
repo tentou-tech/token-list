@@ -1,0 +1,72 @@
+{
+  "name": "Tentou Token list",
+  "timestamp": "",
+  "version": {},
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "story aeneid testnet"
+  ],
+  "tokens": [
+    {
+      "chainId": 1315,
+      "address": "0x1514000000000000000000000000000000000000",
+      "name": "Wrapped IP",
+      "symbol": "WIP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 1315,
+      "address": "0x2D08d948fC0BD2Db5411E8Ab3c49E0bB89A2B428",
+      "name": "ERC20 JUTSU",
+      "symbol": "JUTSU20",
+      "decimals": 18,
+      "logoURI": "https://jutsu.world/_astro/jutsu-logo.D5qchHtH_Z20zfGg.svg",
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 1315,
+      "address": "0x2D08d948fC0BD2Db5411E8Ab3c49E0bB89A2B428",
+      "name": "StoryWETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 1315,
+      "address": "0x8ab8d74acc52cc35d68bbfd872e872a7ff5cfc34",
+      "name": "REDTEST",
+      "symbol": "RTST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 1315,
+      "address": "0x968b9a5603ddeb2a78aa08182bc44ece1d9e5bf0",
+      "name": "StoryUSDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 1315,
+      "address": "0x107dAE5CC09367b23875C76B38e3556Ef9FD881c",
+      "name": "Dev Test Token",
+      "symbol": "dev",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+      "extensions": {
+      }
+    }
+  ]
+}
