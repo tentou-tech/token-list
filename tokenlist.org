@@ -30,41 +30,11 @@
     },
     {
       "chainId": 1315,
-      "address": "0x2D08d948fC0BD2Db5411E8Ab3c49E0bB89A2B428",
-      "name": "StoryWETH",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 1315,
-      "address": "0x8ab8d74acc52cc35d68bbfd872e872a7ff5cfc34",
-      "name": "REDTEST",
-      "symbol": "RTST",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 1315,
-      "address": "0x968b9a5603ddeb2a78aa08182bc44ece1d9e5bf0",
+      "address": "0x8c7c52eabb0fcbcaebce2556d9a719d539ea02d8",
       "name": "StoryUSDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 1315,
-      "address": "0x107dAE5CC09367b23875C76B38e3556Ef9FD881c",
-      "name": "Dev Test Token",
-      "symbol": "dev",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "extensions": {
       }
     }
