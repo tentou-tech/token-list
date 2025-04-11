@@ -4,7 +4,9 @@
   "version": {},
   "tags": {},
   "logoURI": "",
-  "keywords": ["story aeneid testnet"],
+  "keywords": [
+    "story aeneid testnet"
+  ],
   "tokens": [
     {
       "chainId": 1315,
@@ -13,7 +15,8 @@
       "symbol": "WIP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 1315,
@@ -22,7 +25,8 @@
       "symbol": "JUTSU20",
       "decimals": 18,
       "logoURI": "https://jutsu.world/_astro/jutsu-logo.D5qchHtH_Z20zfGg.svg",
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 1315,
@@ -31,7 +35,8 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "extensions": {}
+      "extensions": {
+      }
     }
   ]
 }
