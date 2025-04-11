@@ -38,7 +38,7 @@
       "address": "0x5d1a9551e6b5ed034d6955695cdef49083da06a3",
       "name": "Jutsu",
       "symbol": "JUTSU",
-      "decimals": "18",
+      "decimals": 18,
       "logoURI": "",
       "extensions": {}
     },
@@ -47,7 +47,7 @@
       "address": "0x5d2bbf372a716878dc29087c13f7950c4ce3d973",
       "name": "ERC20 JUTSU",
       "symbol": "JUTSU20",
-      "decimals": "18",
+      "decimals": 18,
       "logoURI": "",
       "extensions": {}
     },
@@ -56,7 +56,7 @@
       "address": "0x7d9929876d6a89e949da9841c57213fc40e6f34b",
       "name": "Prada",
       "symbol": "PRADA",
-      "decimals": "18",
+      "decimals": 18,
       "logoURI": "",
       "extensions": {}
     },
@@ -65,7 +65,7 @@
       "address": "0x968b9a5603ddeb2a78aa08182bc44ece1d9e5bf0",
       "name": "StoryUSDC",
       "symbol": "StoryUSDC",
-      "decimals": "6",
+      "decimals": 6,
       "logoURI": "",
       "extensions": {}
     },
@@ -74,7 +74,7 @@
       "address": "0xd1fa5456186758b84811b929b4d696178fb56ee3",
       "name": "Aeneid Bridged USDT",
       "symbol": "USDT",
-      "decimals": "18",
+      "decimals": 18,
       "logoURI": "",
       "extensions": {}
     }
