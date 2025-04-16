@@ -66,7 +66,7 @@
       "name": "StoryUSDC",
       "symbol": "StoryUSDC",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "extensions": {}
     },
     {
@@ -75,7 +75,70 @@
       "name": "Aeneid Bridged USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+      "extensions": {}
+    },
+    {
+      "chainId": 1315,
+      "address": "0x2bf14fc974049D7FAC0AA252087458470eb27E2E",
+      "name": "WhatTheFreg",
+      "symbol": "WTF",
+      "decimals": 18,
+      "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fwl8idhvzsp1pu3jm2xm23ms6yby8&w=64&q=75",
+      "extensions": {}
+    },
+    {
+      "chainId": 1315,
+      "address": "0x3d05Fd5240e30525B7dCF38683084195B68BE848",
+      "name": "Pepe Coin",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg?1696528776",
+      "extensions": {}
+    },
+    {
+      "chainId": 1315,
+      "address": "0x16dE3577FDc5419D7AeD0c65B6d8B0de5a120842",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/5/standard/dogecoin.png?1696501409",
+      "extensions": {}
+    },
+    {
+      "chainId": 1315,
+      "address": "0xE9F009727980031Bcb7864fd9ED8876ff8D4bCF8",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/standard/chainlink-new-logo.png?1696502009",
+      "extensions": {}
+    },
+    {
+      "chainId": 1315,
+      "address": "0x21cDE62a066841256a8F89Be36c99824f2590ef2",
+      "name": "Sei",
+      "symbol": "SEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28205/standard/Sei_Logo_-_Transparent.png?1696527207",
+      "extensions": {}
+    },
+    {
+      "chainId": 1315,
+      "address": "0xaa3b1e05CE6ddEb1D0ACf527125aE84389961eBF",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "extensions": {}
+    },
+    {
+      "chainId": 1315,
+      "address": "0x0bB7B3b4aD45E2A94CAd536889Aa458dbB5357bD",
+      "name": "Cosmos",
+      "symbol": "ATOM",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/1481/standard/cosmos_hub.png?1696502525",
       "extensions": {}
     }
   ]
