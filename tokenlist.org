@@ -26,9 +26,9 @@
     },
     {
       "chainId": 1315,
-      "address": "0x2D08d948fC0BD2Db5411E8Ab3c49E0bB89A2B428",
-      "name": "StoryWETH",
-      "symbol": "StoryWETH",
+      "address": "0x7068F8Cafe1522dd317975BCe80c7A7a4955757D",
+      "name": "Aeneid Wrapped Ether",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
       "extensions": {}
@@ -67,15 +67,6 @@
       "symbol": "PRADA",
       "decimals": 18,
       "logoURI": "",
-      "extensions": {}
-    },
-    {
-      "chainId": 1315,
-      "address": "0x968b9a5603ddeb2a78aa08182bc44ece1d9e5bf0",
-      "name": "StoryUSDC",
-      "symbol": "StoryUSDC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "extensions": {}
     },
     {
