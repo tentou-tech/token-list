@@ -35,15 +35,6 @@
     },
     {
       "chainId": 1315,
-      "address": "0x8c7c52eabb0fcbcaebce2556d9a719d539ea02d8",
-      "name": "StoryUSDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "extensions": {}
-    },
-    {
-      "chainId": 1315,
       "address": "0x5d1a9551e6b5ed034d6955695cdef49083da06a3",
       "name": "Jutsu",
       "symbol": "JUTSU",
