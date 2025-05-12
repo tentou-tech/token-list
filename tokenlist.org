@@ -119,7 +119,7 @@
       "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
       "name": "Bridge USDC (Stargate)",
       "symbol": "USDC.e",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "extensions": {}
     },
