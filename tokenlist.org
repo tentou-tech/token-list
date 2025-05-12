@@ -8,24 +8,6 @@
   "tokens": [
     {
       "chainId": 1315,
-      "address": "0x0000000000000000000000000000000000000000",
-      "name": "IP",
-      "symbol": "IP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
-      "extensions": {}
-    },
-    {
-      "chainId": 1315,
-      "address": "0x1514000000000000000000000000000000000000",
-      "name": "Wrapped IP",
-      "symbol": "WIP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
-      "extensions": {}
-    },
-    {
-      "chainId": 1315,
       "address": "0x7068F8Cafe1522dd317975BCe80c7A7a4955757D",
       "name": "Aeneid Wrapped Ether",
       "symbol": "WETH",
@@ -130,24 +112,6 @@
       "symbol": "ATOM",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/1481/standard/cosmos_hub.png?1696502525",
-      "extensions": {}
-    },
-    {
-      "chainId": 1514,
-      "address": "0x0000000000000000000000000000000000000000",
-      "name": "IP",
-      "symbol": "IP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
-      "extensions": {}
-    },
-    {
-      "chainId": 1514,
-      "address": "0x1514000000000000000000000000000000000000",
-      "name": "Wrapped IP",
-      "symbol": "WIP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
       "extensions": {}
     },
     {
