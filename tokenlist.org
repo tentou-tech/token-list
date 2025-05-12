@@ -131,6 +131,96 @@
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/1481/standard/cosmos_hub.png?1696502525",
       "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "IP",
+      "symbol": "IP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x1514000000000000000000000000000000000000",
+      "name": "Wrapped IP",
+      "symbol": "WIP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/54035/standard/Transparent_bg.png?1738075331",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "name": "Bridge USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0xbab93b7ad7fe8692a878b95a8e689423437cc500",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x5267f7ee069ceb3d8f1c760c215569b79d0685ad",
+      "name": "VerioIP",
+      "symbol": "vIP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/vIP.jpeg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x02353a3bd5c9668159cf9fd54ac61b03212fcf41",
+      "name": "Sona",
+      "symbol": "Sona",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Sona.jpg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x9b7b7218e2db914fea97985c00ac983a773e6b62",
+      "name": "KOGA",
+      "symbol": "KOGA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/KOGA.jpg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0xd07faed671decf3c5a6cc038dad97c8efdb507c0",
+      "name": "StakedIP Token",
+      "symbol": "stIP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/stIP.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0xc732227dff21e35f01089961fb4f191c8acd85bc",
+      "name": "Lil Benji",
+      "symbol": "LILBENJI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/benju.jpeg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x25f9c9715d1d700a50b2a9a06d80fe9f98ccb549",
+      "name": "Benjamin",
+      "symbol": "BENJI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/BENJI.png",
+      "extensions": {}
     }
   ]
 }
