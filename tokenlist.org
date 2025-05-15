@@ -192,7 +192,7 @@
       "name": "MUSIC by Virtuals",
       "symbol": "MUSIC",
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://app.piperx.xyz/assets/icon_music-c305011b.png",
       "extensions": {}
     }
   ]
