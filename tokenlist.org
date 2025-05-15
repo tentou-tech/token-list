@@ -185,6 +185,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/BENJI.png",
       "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x855bD6a8c5046D97C4E063e90e40f0F010D5423a",
+      "name": "MUSIC by Virtuals",
+      "symbol": "MUSIC",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {}
     }
   ]
 }
