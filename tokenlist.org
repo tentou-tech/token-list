@@ -196,7 +196,7 @@
       "extensions": {}
     },
     {
-      "chainId": 1514,
+      "chainId": 1513,
       "address": "0x2f7f07691615188b07ea8198cf47a8bb11a3f2fc",
       "name": "Drip Drip by Music",
       "symbol": "DRIP",
