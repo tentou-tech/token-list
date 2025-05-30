@@ -194,6 +194,15 @@
       "decimals": 18,
       "logoURI": "https://app.piperx.xyz/assets/icon_music-c305011b.png",
       "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x2f7f07691615188b07ea8198cf47a8bb11a3f2fc",
+      "name": "Drip Drip by Music",
+      "symbol": "DRIP",
+      "decimals": 18,
+      "logoURI": "https://app.piperx.xyz/assets/icon_drip-6bd34296.png",
+      "extensions": {}
     }
   ]
 }
