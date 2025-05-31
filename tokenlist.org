@@ -203,6 +203,24 @@
       "decimals": 18,
       "logoURI": "https://app.piperx.xyz/assets/icon_drip-6bd34296.png",
       "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x5a212776066b81e449fe74396cce368dc4b14043",
+      "name": "WhatTheFreg",
+      "symbol": "WTF",
+      "decimals": 18,
+      "logoURI": "https://app.piperx.xyz/assets/icon_WTF-2d66a7b1.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
+      "name": "LYRA",
+      "symbol": "LYRA",
+      "decimals": 18,
+      "logoURI": "https://app.piperx.xyz/assets/icon_lyra-942e7a60.png",
+      "extensions": {}
     }
   ]
 }
