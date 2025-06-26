@@ -125,15 +125,6 @@
     },
     {
       "chainId": 1514,
-      "address": "0xbab93b7ad7fe8692a878b95a8e689423437cc500",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
-      "extensions": {}
-    },
-    {
-      "chainId": 1514,
       "address": "0x5267f7ee069ceb3d8f1c760c215569b79d0685ad",
       "name": "VerioIP",
       "symbol": "vIP",
@@ -143,11 +134,56 @@
     },
     {
       "chainId": 1514,
+      "address": "0xfE82012eCcE57a188E5f9f3fC1Cb2D335C58F1f5",
+      "name": "Aria Premiere Launch",
+      "symbol": "APL",
+      "decimals": 18,
+      "logoURI": "https://app.piperx.xyz/assets/icon_APL-9110038d.jpg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0xb5461c1FD0312Cd4bF037058F8a391e6A42F9639",
+      "name": "Staked APL",
+      "symbol": "stAPL",
+      "decimals": 18,
+      "logoURI": "https://app.piperx.xyz/assets/icon_stAPL-b17a96fa.jpg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x855bD6a8c5046D97C4E063e90e40f0F010D5423a",
+      "name": "MUSIC by Virtuals",
+      "symbol": "MUSIC",
+      "decimals": 18,
+      "logoURI": "https://app.piperx.xyz/assets/icon_music-c305011b.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x2f7f07691615188b07ea8198cf47a8bb11a3f2fc",
+      "name": "Drip Drip by Music",
+      "symbol": "DRIP",
+      "decimals": 18,
+      "logoURI": "https://app.piperx.xyz/assets/icon_drip-6bd34296.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
       "address": "0x02353a3bd5c9668159cf9fd54ac61b03212fcf41",
       "name": "Sona",
       "symbol": "Sona",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Sona.jpg",
+      "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0xbab93b7ad7fe8692a878b95a8e689423437cc500",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
       "extensions": {}
     },
     {
@@ -188,24 +224,6 @@
     },
     {
       "chainId": 1514,
-      "address": "0x855bD6a8c5046D97C4E063e90e40f0F010D5423a",
-      "name": "MUSIC by Virtuals",
-      "symbol": "MUSIC",
-      "decimals": 18,
-      "logoURI": "https://app.piperx.xyz/assets/icon_music-c305011b.png",
-      "extensions": {}
-    },
-    {
-      "chainId": 1514,
-      "address": "0x2f7f07691615188b07ea8198cf47a8bb11a3f2fc",
-      "name": "Drip Drip by Music",
-      "symbol": "DRIP",
-      "decimals": 18,
-      "logoURI": "https://app.piperx.xyz/assets/icon_drip-6bd34296.png",
-      "extensions": {}
-    },
-    {
-      "chainId": 1514,
       "address": "0x5a212776066b81e449fe74396cce368dc4b14043",
       "name": "WhatTheFreg",
       "symbol": "WTF",
@@ -220,24 +238,6 @@
       "symbol": "LYRA",
       "decimals": 18,
       "logoURI": "https://app.piperx.xyz/assets/icon_lyra-942e7a60.png",
-      "extensions": {}
-    },
-    {
-      "chainId": 1514,
-      "address": "0xfE82012eCcE57a188E5f9f3fC1Cb2D335C58F1f5",
-      "name": "Aria Premiere Launch",
-      "symbol": "APL",
-      "decimals": 18,
-      "logoURI": "https://app.piperx.xyz/assets/icon_APL-9110038d.jpg",
-      "extensions": {}
-    },
-    {
-      "chainId": 1514,
-      "address": "0xb5461c1FD0312Cd4bF037058F8a391e6A42F9639",
-      "name": "Staked APL",
-      "symbol": "stAPL",
-      "decimals": 18,
-      "logoURI": "https://app.piperx.xyz/assets/icon_stAPL-b17a96fa.jpg",
       "extensions": {}
     }
   ]
