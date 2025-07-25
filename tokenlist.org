@@ -129,7 +129,7 @@
       "name": "VerioIP",
       "symbol": "vIP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/vIP.jpeg",
+      "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/vIP.jpeg",
       "extensions": {}
     },
     {
@@ -174,7 +174,7 @@
       "name": "Sona",
       "symbol": "Sona",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/Sona.jpg",
+      "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/Sona.jpg",
       "extensions": {}
     },
     {
@@ -192,7 +192,7 @@
       "name": "KOGA",
       "symbol": "KOGA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/KOGA.jpg",
+      "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/KOGA.jpg",
       "extensions": {}
     },
     {
@@ -201,7 +201,7 @@
       "name": "StakedIP Token",
       "symbol": "stIP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/stIP.png",
+      "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/stIP.png",
       "extensions": {}
     },
     {
@@ -210,7 +210,7 @@
       "name": "Lil Benji",
       "symbol": "LILBENJI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/benju.jpeg",
+      "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/benju.jpeg",
       "extensions": {}
     },
     {
@@ -219,7 +219,7 @@
       "name": "Benjamin",
       "symbol": "BENJI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/0xstoryhunt/default-list/refs/heads/main/tokens_logos/BENJI.png",
+      "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/BENJI.png",
       "extensions": {}
     },
     {
