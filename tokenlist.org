@@ -239,6 +239,15 @@
       "decimals": 18,
       "logoURI": "https://app.piperx.xyz/assets/icon_lyra-942e7a60.png",
       "extensions": {}
+    },
+    {
+      "chainId": 1514,
+      "address": "0x693c7AcF65e52C71bAFE555Bc22d69cB7f8a78a2",
+      "name": "Evil Larry",
+      "symbol": "LARRY",
+      "decimals": 18,
+      "logoURI": "https://tokens.storyhunt.xyz/tokens_logos/LARRY.png",
+      "extensions": {}
     }
   ]
 }
